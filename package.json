@@ -1,6 +1,6 @@
 {
   "name": "videojs-hlsjs-plugin",
-  "version": "1.0.16",
+  "version": "1.6.15",
   "main": "./lib/main.js",
   "types": "types.d.ts",
   "homepage": "www.streamroot.io",
@@ -22,7 +22,7 @@
     "test:lint": "eslint lib/"
   },
   "dependencies": {
-    "hls.js": "0.13.2"
+    "hls.js": "1.6.15"
   },
   "devDependencies": {
     "ajv": "^6.4.0",
